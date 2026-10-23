@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RecordApp.Tests/RecordApp.Tests.csproj" />
+  <Project Path="RecordApp/RecordApp.csproj" />
+</Solution>
