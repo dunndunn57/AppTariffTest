@@ -7,7 +7,7 @@ namespace RecordApp.Tests
     public class TariffFsmTests
     {
         /// <summary>
-        /// TEACHING AID THEORY - THE STATE-TRANSITION MATRIX
+        /// TEACHING AID THEORY - THE STATE-TRANSITION MATRIX 6/11/2026
         /// --------------------------------------------------------------------------
         /// FROM \ TO   | Draft       | Published   | Suspended   | Superseded  |
         /// ------------|-------------|-------------|-------------|-------------|
